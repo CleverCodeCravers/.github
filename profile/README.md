@@ -3,7 +3,7 @@
 The Clever Code Cravers is an open source organization on github.
 We store our code here. :smile:
 
-We develope tools that improve our ability to deliver good software fast.
+We develop tools that improve our ability to deliver good software fast.
 
 Have a nice day!
 
