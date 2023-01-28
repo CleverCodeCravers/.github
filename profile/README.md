@@ -15,3 +15,7 @@ We develop experimental tools that improve our ability to deliver good software 
 - **[VisualPairCoding](https://github.com/CleverCodeCravers/VisualPairCoding)** <br>Pair Coding / Mob Coding Tool. Enter the participants and turn duration, it will make sure you know whos turn it is.
 
 - **[WindowsServicify](https://github.com/CleverCodeCravers/WindowsServicify)** <br>Takes a command line application and turns it into a windows service. The service will keep your command running no matter what.
+
+## Tools for our tools
+
+- **[ToolingDeployment](https://github.com/CleverCodeCravers/ToolingDeployment)** <br>Scripts to download the newest executables of all our applications to the local system, be it windows or linux. "One script to rule them all"
