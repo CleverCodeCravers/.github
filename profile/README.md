@@ -5,6 +5,9 @@ We store our code here. :smile:
 
 We develop experimental tools that improve our ability to deliver good software fast.
 
+Current members: 
+- [stho32](https://github.com/stho32)
+- [naseif](https://github.com/naseif)
 
 ## Our Tools
 
