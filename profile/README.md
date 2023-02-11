@@ -19,3 +19,7 @@ We develop experimental tools that improve our ability to deliver good software 
 ## Tools for our tools
 
 - **[ToolingDeployment](https://github.com/CleverCodeCravers/ToolingDeployment)** <br>Scripts to download the newest executables of all our applications to the local system, be it windows or linux. "One script to rule them all"
+
+
+
+![](https://komarev.com/ghpvc/?username=CleverCodeCravers)
