@@ -22,4 +22,4 @@ We develop experimental tools that improve our ability to deliver good software 
 
 
 
-![](https://komarev.com/ghpvc/?username=CleverCodeCravers)
+![](https://komarev.com/ghpvc/?username=CleverCodeCravers&color=lightgrey)
