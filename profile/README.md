@@ -7,7 +7,7 @@ We develop experimental tools that improve our ability to deliver good software 
 
 Current members: 
 - [stho32](https://github.com/stho32)
-- [naseif](https://github.com/naseif)
+- [naseif](https://github.com/naseif) (Need help with something? You can hire me at: https://www.fiverr.com/naseif_dev#!)
 
 ## Our Tools
 
